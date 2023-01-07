@@ -2,9 +2,9 @@ import smtplib
 import smtplib
 import datetime as dt
 
-my_email = "pr0b4nd0xxy@gmail.com"
-password = "qwfdtudiwexwxvmx"
-target_email = "imthefreiby@gmail.com"
+my_email = ""
+password = ""
+target_email = ""
 #message = "Hello"
 
 # connection = smtplib.SMTP("smtp.gmail.com",587)

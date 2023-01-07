@@ -5,10 +5,10 @@ import random
 
 
 my_email = "pr0b4nd0xxy@gmail.com" #from_email
-password = "qwfdtudiwexwxvmx"
+password = ""
  #["soyellokito768@gmail.com", "imthefreiby@google.com"]
 
-email_list = ["soyellokito768@gmail.com", "imthefreiby@google.com", "pr0b4nd0xxy@gmail.com"]
+
 
 now = dt.datetime.now()
 weekday = now.weekday()
